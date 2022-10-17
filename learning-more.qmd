@@ -14,7 +14,7 @@ An excellent overview: **Reproducible authoring with Quarto** - Mine Çetinkaya-
 -   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/)\
 -   [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)
 
-See many more examples at the [quarto gallery](https://quarto.org/docs/gallery/)!
+See many, many more examples at the [quarto gallery](https://quarto.org/docs/gallery/)!
 
 ### Inspiration
 
