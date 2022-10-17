@@ -1,4 +1,4 @@
 # quarto-site-template
 Example quarto site without R or Python! 
 
-** TESTING GITHUB ACTIONS -- IGNORE **
+** TESTING GITHUB ACTIONS **
